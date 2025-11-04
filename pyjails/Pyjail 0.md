@@ -9,4 +9,6 @@ nc chal.sigpwny.com 5009
 We was tasked to escape the pyjail and from the source code given we found the exec function which we exploited
 
 ## Method of solve
+~~~
 print(open('/flag.txt').read())
+~~~
