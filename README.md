@@ -1,2 +1,2 @@
 # PwnyCTF
-NOtes from he challenges I solved
+Notes from the challenges I solved
